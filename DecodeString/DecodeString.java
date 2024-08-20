@@ -63,5 +63,6 @@ public class DecodeString{
                 System.out.print("You input wrong type code, please re-input: ");
             }
         }
+        input.close();
     }
 }
